@@ -1,0 +1,3 @@
+name: AetherisBlockLimiter
+version: '${project.version}'
+main: br.com.aetherismc.blocklimiter.Core

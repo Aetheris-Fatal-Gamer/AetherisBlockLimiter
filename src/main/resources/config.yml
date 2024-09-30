@@ -1,0 +1,17 @@
+Mensagens:
+  Prefix: "&7[&4Aetheris&cMC&7] "
+  Mundo_Aleatorio: "&cPara ir ate o mundo de construcao digite: &4/aleatorio"
+  Somente_Seu_Terreno: "&cVoce so pode remover/colocar itens limitados do seu proprio plot!"
+  Mundo_Construcao: "&cVoce so pode colocar itens limitados no mundo de construcao!"
+  Ja_Colocou: "&aVoce ja colocou: &2@state &ade um limite de &2@max &adeste item."
+  Atingiu_Limite: "&cVoce atingiu o limite maximo de colocacoes deste item."
+Blocks:
+  4445:
+    name: 'Phytogenic Insolator'
+    limit: 10
+    data: 4
+    permissions: # Padrão definido aetheris.blocklimiter.<ID>.<Data>.<Quantidade>
+      - 20 # aetheris.blocklimiter.4445.4.20
+      - 30 # aetheris.blocklimiter.4445.4.30
+CancelFakePlayers:
+  - ''
